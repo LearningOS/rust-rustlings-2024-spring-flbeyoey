@@ -1,9 +1,4 @@
-tests1                  exercises/tests/tests1.rs                       Pending
-tests2                  exercises/tests/tests2.rs                       Pending
-tests3                  exercises/tests/tests3.rs                       Pending
-tests4                  exercises/tests/tests4.rs                       Pending
-iterators1              exercises/iterators/iterators1.rs               Pending
-iterators2              exercises/iterators/iterators2.rs               Pending
+           exercises/iterators/iterators2.rs               Pending
 iterators3              exercises/iterators/iterators3.rs               Pending
 iterators4              exercises/iterators/iterators4.rs               Pending
 iterators5              exercises/iterators/iterators5.rs               Pending
