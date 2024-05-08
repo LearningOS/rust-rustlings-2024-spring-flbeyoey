@@ -1,9 +1,4 @@
-           exercises/iterators/iterators2.rs               Pending
-iterators3              exercises/iterators/iterators3.rs               Pending
-iterators4              exercises/iterators/iterators4.rs               Pending
-iterators5              exercises/iterators/iterators5.rs               Pending
-box1                    exercises/smart_pointers/box1.rs                Pending
-rc1                     exercises/smart_pointers/rc1.rs                 Pending
+
 arc1                    exercises/smart_pointers/arc1.rs                Pending
 cow1                    exercises/smart_pointers/cow1.rs                Pending
 threads1                exercises/threads/threads1.rs                   Pending
